@@ -34,16 +34,22 @@ Easy to learn in seconds, with enough planning depth to keep every level interes
 
 <div align="center">
 
-| Gameplay | Truck Queue | Level Complete |
+| Core Gameplay | Truck Logistics Queue | Masterpiece Victory |
 |:---:|:---:|:---:|
-| <img src="screenshots/gameplay-1.png" width="220"> | <img src="screenshots/gameplay-2.png" width="220"> | <img src="screenshots/level-complete.png" width="220"> |
+| <img src="screenshots/gameplay.png" width="220" alt="Core Gameplay"> | <img src="screenshots/trucks.png" width="220" alt="Truck Logistics Queue"> | <img src="screenshots/victory.png" width="220" alt="Level Complete Victory"> |
 
-<img src="screenshots/main-menu.png" alt="Main menu" width="260">
+<br>
+
+### 🏛️ 23+ Page Art Gallery Collection
+<img src="screenshots/gallery.png" alt="Art Gallery with 130+ Voxel Sculptures" width="340">
+
+*Players unlock and assemble dozens of intricate voxel sculptures across 23+ themed gallery pages.*
 
 </div>
 
 ## ✨ Core Features
 
+- 🏛️ **23+ Page Art Gallery** — over 130+ vibrant voxel masterpieces (Apple, Rocket, Burger, Balloon, Cat, and many more) to unlock and construct.
 - 🧱 **Voxel sculpture levels** — every level is a grid of colored blocks that together form a larger pixel-art picture.
 - 🚚 **Numbered trucks** — each truck targets a specific color and has a fixed capacity that must be filled before it departs.
 - 👷 **Worker logistics** — workers automatically carry matching blocks from the board to the selected trucks.
