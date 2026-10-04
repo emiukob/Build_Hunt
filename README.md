@@ -90,7 +90,6 @@ Easy to learn in seconds, with enough planning depth to keep every level interes
 Interested in the game, a publishing deal or a collaboration?
 
 - 📧 **Email:** [emir.bekar@bilgiedu.net](mailto:emir.bekar@bilgiedu.net)
-- 💼 **LinkedIn:** [Emir Bekar](https://www.linkedin.com/in/emir-bekar-883410360)
 - ▶️ **YouTube:** [@emiukob](https://www.youtube.com/@emiukob)
 - 🏝️ **Portfolio:** [emiukob.github.io](https://emiukob.github.io)
 
