@@ -2,7 +2,8 @@
 
 # 🏗️ Build Hunt
 
-### Demolish. Sort. Load. — A satisfying pixel art puzzle game for mobile.
+### 🔨 Demolish. Sort. Load.
+#### A satisfying pixel art puzzle game for mobile.
 
 ![Unity](https://img.shields.io/badge/Unity-6-000000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
