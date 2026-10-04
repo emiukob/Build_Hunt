@@ -34,23 +34,30 @@ Easy to learn in seconds, with enough planning depth to keep every level interes
 
 <div align="center">
 
-| Core Gameplay | Truck Logistics Queue | Masterpiece Victory |
-|:---:|:---:|:---:|
-| <img src="screenshots/gameplay.png" width="220" alt="Core Gameplay"> | <img src="screenshots/trucks.png" width="220" alt="Truck Logistics Queue"> | <img src="screenshots/victory.png" width="220" alt="Level Complete Victory"> |
-
-<br>
-
-### 🎨 Handcrafted Pixel Art in LibreSprite
-<img src="screenshots/LibreSprite.png" alt="Handcrafted Pixel Art in LibreSprite" width="480">
-
-*Every single pixel artwork and level sprite is meticulously drawn pixel-by-pixel by hand in LibreSprite.*
-
-<br>
-
-### 🏛️ 23+ Page Art Gallery Collection
-<img src="screenshots/gallery.png" alt="Art Gallery with 130+ Pixel Art Sculptures" width="340">
-
-*Players unlock and assemble dozens of intricate pixel-art sculptures across 23+ themed gallery pages.*
+<table>
+  <thead>
+    <tr>
+      <th align="center">Core Gameplay</th>
+      <th align="center">Truck Logistics</th>
+      <th align="center">Masterpiece Victory</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="screenshots/gameplay.png" width="220" alt="Core Gameplay"></td>
+      <td align="center"><img src="screenshots/trucks.png" width="220" alt="Truck Logistics Queue"></td>
+      <td align="center"><img src="screenshots/victory.png" width="220" alt="Masterpiece Victory"></td>
+    </tr>
+    <tr>
+      <th colspan="2" align="center">🎨 Handcrafted in LibreSprite (Pixel by Pixel)</th>
+      <th align="center">🏛️ 23+ Page Art Gallery</th>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="screenshots/LibreSprite.png" width="460" alt="Handcrafted Pixel Art in LibreSprite"></td>
+      <td align="center"><img src="screenshots/gallery.png" width="220" alt="Art Gallery"></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
