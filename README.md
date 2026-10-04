@@ -56,16 +56,16 @@ Easy to learn in seconds, with enough planning depth to keep every level interes
 
 ## ✨ Core Features
 
-- 🏛️ **23+ Page Art Gallery** — over 130+ vibrant pixel-art masterpieces (Apple, Rocket, Burger, Balloon, Cat, and many more) to unlock and construct.
-- 🎨 **100% Handcrafted Pixel Art** — each sculpture and model is crafted pixel-by-pixel in LibreSprite for a clean, distinctive aesthetic.
-- 🧱 **Pixel-art sculpture levels** — every level is a grid of colored blocks that together form a larger pixel-art picture.
-- 🚚 **Numbered trucks** — each truck targets a specific color and has a fixed capacity that must be filled before it departs.
-- 👷 **Worker logistics** — workers automatically carry matching blocks from the board to the selected trucks.
-- 🅿️ **Limited truck slots** — only a handful of trucks can be active at once, so choosing the order matters.
-- 🔒 **Special truck types** — normal, locked, hidden and linked trucks add layers of strategy as levels progress.
-- 🎨 **12-color block palette** with optional per-level custom palettes for exact artist-controlled looks.
-- 📳 **Juicy feedback** — particle effects, animated trucks, sound and haptic feedback on key actions.
-- 🧩 **Jam detection** — the tray monitors for dead-end states so the player is never silently stuck.
+- 🏛️ **23+ Page Art Gallery**: Over 130+ vibrant pixel art masterpieces (Apple, Rocket, Burger, Balloon, Cat, and many more) to unlock and demolish.
+- 🎨 **100% Handcrafted Pixel Art**: Each sculpture and model is crafted pixel-by-pixel in LibreSprite for a clean, distinctive aesthetic.
+- 🧱 **Pixel Art Levels**: Every level is a grid of colored blocks that together form a larger pixel art picture.
+- 🚚 **Numbered Trucks**: Each truck targets a specific color and has a fixed capacity that must be filled before it departs.
+- 👷 **Worker Logistics**: Workers automatically carry matching blocks from the board to the selected trucks.
+- 🅿️ **Limited Truck Slots**: Only a handful of trucks can be active at once, so choosing the order matters.
+- 🔒 **Special Truck Types**: Normal, locked, hidden, and linked trucks add layers of strategy as levels progress.
+- 🎨 **12-Color Block Palette**: Optional per-level custom palettes for exact artist-controlled looks.
+- 📳 **Juicy Feedback**: Particle effects, animated trucks, sound, and haptic feedback on key actions.
+- 🧩 **Jam Detection**: The tray monitors for dead-end states so the player is never silently stuck.
 
 ## 🛠️ Technical Highlights
 
