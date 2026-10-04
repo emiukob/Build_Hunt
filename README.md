@@ -2,7 +2,7 @@
 
 # 🏗️ Build Hunt
 
-### Sort. Load. Build. — A satisfying isometric pixel-art construction puzzle for mobile.
+### Sort. Load. Build. — A satisfying pixel-art construction puzzle for mobile.
 
 ![Unity](https://img.shields.io/badge/Unity-6-000000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
@@ -24,7 +24,7 @@
 
 ## 🎮 About the Game
 
-**Build Hunt** is an isometric, hybrid-casual mobile puzzle game. A crew of hard-hatted workers is raising a giant pixel-art sculpture out of colored blocks — and **you run the logistics**.
+**Build Hunt** is a hybrid-casual mobile puzzle game. A crew of hard-hatted workers is raising a giant pixel-art sculpture out of colored blocks — and **you run the logistics**.
 
 Pick the right truck, send your workers to haul matching blocks, fill every truck to its number and watch a huge pixel-art monument grow, block by block, until the build is complete.
 
