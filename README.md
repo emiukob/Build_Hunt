@@ -2,7 +2,7 @@
 
 # 🏗️ Build Hunt
 
-### Sort. Load. Build. — A satisfying isometric voxel construction puzzle for mobile.
+### Sort. Load. Build. — A satisfying isometric pixel-art construction puzzle for mobile.
 
 ![Unity](https://img.shields.io/badge/Unity-6-000000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
@@ -24,9 +24,9 @@
 
 ## 🎮 About the Game
 
-**Build Hunt** is an isometric, hybrid-casual mobile puzzle game. A crew of hard-hatted workers is raising a giant pixel-art sculpture out of colored voxel blocks — and **you run the logistics**.
+**Build Hunt** is an isometric, hybrid-casual mobile puzzle game. A crew of hard-hatted workers is raising a giant pixel-art sculpture out of colored blocks — and **you run the logistics**.
 
-Pick the right truck, send your workers to haul matching blocks, fill every truck to its number and watch a huge voxel monument grow, block by block, until the build is complete.
+Pick the right truck, send your workers to haul matching blocks, fill every truck to its number and watch a huge pixel-art monument grow, block by block, until the build is complete.
 
 Easy to learn in seconds, with enough planning depth to keep every level interesting.
 
@@ -43,22 +43,22 @@ Easy to learn in seconds, with enough planning depth to keep every level interes
 ### 🎨 Handcrafted Pixel Art in LibreSprite
 <img src="screenshots/LibreSprite.png" alt="Handcrafted Pixel Art in LibreSprite" width="480">
 
-*Every single voxel artwork and level sprite is meticulously drawn pixel-by-pixel by hand in LibreSprite.*
+*Every single pixel artwork and level sprite is meticulously drawn pixel-by-pixel by hand in LibreSprite.*
 
 <br>
 
 ### 🏛️ 23+ Page Art Gallery Collection
-<img src="screenshots/gallery.png" alt="Art Gallery with 130+ Voxel Sculptures" width="340">
+<img src="screenshots/gallery.png" alt="Art Gallery with 130+ Pixel Art Sculptures" width="340">
 
-*Players unlock and assemble dozens of intricate voxel sculptures across 23+ themed gallery pages.*
+*Players unlock and assemble dozens of intricate pixel-art sculptures across 23+ themed gallery pages.*
 
 </div>
 
 ## ✨ Core Features
 
-- 🏛️ **23+ Page Art Gallery** — over 130+ vibrant voxel masterpieces (Apple, Rocket, Burger, Balloon, Cat, and many more) to unlock and construct.
+- 🏛️ **23+ Page Art Gallery** — over 130+ vibrant pixel-art masterpieces (Apple, Rocket, Burger, Balloon, Cat, and many more) to unlock and construct.
 - 🎨 **100% Handcrafted Pixel Art** — each sculpture and model is crafted pixel-by-pixel in LibreSprite for a clean, distinctive aesthetic.
-- 🧱 **Voxel sculpture levels** — every level is a grid of colored blocks that together form a larger pixel-art picture.
+- 🧱 **Pixel-art sculpture levels** — every level is a grid of colored blocks that together form a larger pixel-art picture.
 - 🚚 **Numbered trucks** — each truck targets a specific color and has a fixed capacity that must be filled before it departs.
 - 👷 **Worker logistics** — workers automatically carry matching blocks from the board to the selected trucks.
 - 🅿️ **Limited truck slots** — only a handful of trucks can be active at once, so choosing the order matters.
@@ -79,7 +79,7 @@ Easy to learn in seconds, with enough planning depth to keep every level interes
 ## 🧰 Built With
 
 - **Unity 6** & **C#**
-- **LibreSprite** (100% Handcrafted Pixel / Voxel Art)
+- **LibreSprite** (100% Handcrafted Pixel Art)
 
 ## 📅 Status
 
