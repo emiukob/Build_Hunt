@@ -6,7 +6,7 @@
 
 ![Unity](https://img.shields.io/badge/Unity-6-000000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-3DDC84?logo=apple&logoColor=white)
 ![Genre](https://img.shields.io/badge/Genre-Hybrid--Casual%20Puzzle-ff6b8b)
 ![Status](https://img.shields.io/badge/Status-Closed%20Source-red)
 
@@ -30,13 +30,20 @@ Pick the right truck, send your workers to haul matching blocks, fill every truc
 
 Easy to learn in seconds, with enough planning depth to keep every level interesting.
 
-## 📸 Screenshots
+## 📸 Screenshots & Art Pipeline
 
 <div align="center">
 
 | Core Gameplay | Truck Logistics Queue | Masterpiece Victory |
 |:---:|:---:|:---:|
 | <img src="screenshots/gameplay.png" width="220" alt="Core Gameplay"> | <img src="screenshots/trucks.png" width="220" alt="Truck Logistics Queue"> | <img src="screenshots/victory.png" width="220" alt="Level Complete Victory"> |
+
+<br>
+
+### 🎨 Handcrafted Pixel Art in LibreSprite
+<img src="screenshots/LibreSprite.png" alt="Handcrafted Pixel Art in LibreSprite" width="480">
+
+*Every single voxel artwork and level sprite is meticulously drawn pixel-by-pixel by hand in LibreSprite.*
 
 <br>
 
@@ -50,6 +57,7 @@ Easy to learn in seconds, with enough planning depth to keep every level interes
 ## ✨ Core Features
 
 - 🏛️ **23+ Page Art Gallery** — over 130+ vibrant voxel masterpieces (Apple, Rocket, Burger, Balloon, Cat, and many more) to unlock and construct.
+- 🎨 **100% Handcrafted Pixel Art** — each sculpture and model is crafted pixel-by-pixel in LibreSprite for a clean, distinctive aesthetic.
 - 🧱 **Voxel sculpture levels** — every level is a grid of colored blocks that together form a larger pixel-art picture.
 - 🚚 **Numbered trucks** — each truck targets a specific color and has a fixed capacity that must be filled before it departs.
 - 👷 **Worker logistics** — workers automatically carry matching blocks from the board to the selected trucks.
@@ -64,32 +72,14 @@ Easy to learn in seconds, with enough planning depth to keep every level interes
 | Area | Details |
 |---|---|
 | **Engine** | Unity 6, C# |
-| **Target** | Android (mobile-first, portrait) |
+| **Target Platforms** | iOS & Android (mobile-first, portrait) |
 | **Architecture** | Event-driven design (`EventManager`) decoupling grid, trucks, workers and UI |
-| **Performance** | Object pooling for workers and effects, 60 FPS cap with VSync disabled to save battery and heat |
-| **Level pipeline** | Data-driven `ScriptableObject` levels — grid size, blocks, truck queue and palette in a single asset |
-| **Tooling** | Custom Unity editor tools: level builder, project setup wizard and one-click Android build script |
-| **Responsive camera** | Automatically adapts framing to different phone aspect ratios |
-
-### Code Organization (high level)
-
-```
-Core      → Game flow, events, visual helpers
-Grid      → Block grid & block behaviour
-Tray      → Truck slots, truck states, queue logic
-Worker    → Worker AI & pooled worker management
-Effects   → Board frame, particles, haptics
-Audio     → Sound management
-UI        → Main menu & in-game UI
-Data      → ScriptableObject level definitions
-Editor    → Level builder, setup wizard, build automation
-```
+| **Performance** | High refresh-rate display support up to 120Hz / 120 FPS with fluid animations, zero-GC object pooling (`WorkerPoolManager`), and battery/thermal optimizations |
 
 ## 🧰 Built With
 
 - **Unity 6** & **C#**
-- AI-assisted pixel / voxel art pipeline
-- Custom editor tooling for rapid level creation
+- **LibreSprite** (100% Handcrafted Pixel / Voxel Art)
 
 ## 📅 Status
 
